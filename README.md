@@ -29,10 +29,10 @@ Using Pandas, I performed:
 
 Below are the interactive IPL Batsmen and Bowler Performance Dashboards created in Power BI. These dashboards visually highlight the key insights extracted from the cleaned dataset, including top scorers, boundary performance, strike rates, wicket patterns, dot-ball efficiency, and overall player impact. Each visual is designed to help users easily compare players, spot trends, and understand performance differences across seasons. The dashboards provide a clear and intuitive way to explore IPL data dynamically.
 
--- # Batsmen Dashboard
+# Batsmen Dashboard
 <img width="949" height="574" alt="IPL Batsmen Dasboard " src="https://github.com/user-attachments/assets/d9cab00f-3725-476c-80c9-4a9b258753e2" />
 
--- # Bowler Dashboard
+# Bowler Dashboard
 <img width="1371" height="838" alt="IPL Bowler Dashboard" src="https://github.com/user-attachments/assets/c9f1d69d-86ff-433a-aec4-97544657e433" />
 
 
